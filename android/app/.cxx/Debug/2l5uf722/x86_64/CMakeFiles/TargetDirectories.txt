@@ -1,0 +1,2 @@
+C:/Users/Komal/Downloads/book-my-wod-main/book-my-wod-main/android/app/.cxx/Debug/2l5uf722/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Komal/Downloads/book-my-wod-main/book-my-wod-main/android/app/.cxx/Debug/2l5uf722/x86_64/CMakeFiles/rebuild_cache.dir
